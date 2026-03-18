@@ -1,7 +1,9 @@
-This is a small bash script that outputs the currently open hyprland workspaces in text, formatted similarly to how workspaces are displayed on waybar. An example for a use-case is creating a small notification that outputs this text using notify-send
+This is a small bash script that outputs the currently open hyprland workspaces in text, formatted similarly to how workspaces are displayed on waybar. An example for a use-case is creating a small notification that outputs this text using `notify-send`
 
 Here is an example of what it might output:
+
 `x o o · o · · · · ·`
+
 As you can see, in the example, workspace 1 is currently selected and 2,3 and 5 are active.
 
 ### How to use script
